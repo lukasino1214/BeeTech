@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "beetech:lead_ingot"
+        }
+    },
+    "result": {
+        "item": "beetech:lead_block",
+        "count": 1
+    }
+}

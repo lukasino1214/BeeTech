@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "beetech:lithium_ingot"
+        }
+    },
+    "result": {
+        "item": "beetech:lithium_block",
+        "count": 1
+    }
+}

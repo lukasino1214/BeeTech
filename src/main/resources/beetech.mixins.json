@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "net.lukasino1214.beetech.mixins",
+    "compatibilityLevel": "JAVA_8",
+    "mixin": [
+      "Armor"
+    ],
+    "client": [
+      "Armor"
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+  }

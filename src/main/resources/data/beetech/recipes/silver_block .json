@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "beetech:silver_ingot"
+        }
+    },
+    "result": {
+        "item": "beetech:silver_block",
+        "count": 1
+    }
+}
